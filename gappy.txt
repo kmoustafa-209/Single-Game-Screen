@@ -1,0 +1,9 @@
+string0*Gappy:'Hi I am Gappy! Let us achieve victory!'
+
+string1*Gappy:'I am afraid, but I am prepared.'
+
+string2*Gappy:'The Demons, they haunt me'
+
+string3*Gappy:'Do you feel it? They are close.'
+
+string4*Gappy:'Follow me, we must run from the demons.'
